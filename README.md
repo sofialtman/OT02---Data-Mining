@@ -1,22 +1,22 @@
 # Data Mining Project
 Predicting a Starcraft 2 player based on a set of behavioral traces. 
 ## Group members
-ALTMAN VOGL, Sofía Paula 
-KÉDE LIMA JALLAD, Julia
-STEINFELD, Teresa
+* ALTMAN VOGL, Sofía Paula 
+* KÉDE LIMA JALLAD, Julia
+* STEINFELD, Teresa
 
 ## Requirements
-Python version 3.13.1
-Numpy
-Pandas
-scikit-learn version 1.3.0
-sklearn
-matplotlib
-Shap 
-RandomForest Classifier
-seaborn
+* Python version 3.13.1
+* Numpy
+* Pandas
+* scikit-learn version 1.3.0
+* sklearn
+* matplotlib
+* Shap 
+* RandomForest Classifier
+* seaborn
 
-`` bash
+``` bash
 pip install numpy
 pip install pandas
 pip install --upgrade scikit-learn==1.3.0
@@ -27,7 +27,7 @@ pip install shap
 pip install RandomForestClassifier
 pip install mlxtend
 pip install seaborn
-``
+```
 ## For Early Data Analysis
 1. data_expl.ipynb
 2. plots.ipynb
